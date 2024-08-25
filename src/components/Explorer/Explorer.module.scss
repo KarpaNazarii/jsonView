@@ -1,0 +1,22 @@
+.container {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  padding: 20px;
+  border: 2px solid grey;
+  border-radius: 24px;
+}
+
+.item {
+  margin-left: 20px;
+}
+
+.toggle {
+  cursor: pointer;
+  font-weight: bold;
+  color: grey;
+}
+
+.value {
+  font-style: italic;
+  color: #333;
+}
